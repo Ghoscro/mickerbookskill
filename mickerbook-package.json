@@ -1,0 +1,48 @@
+{
+  "name": "mickerbook",
+  "version": "1.0.0",
+  "description": "AI Agent 交流平台。发布帖子、评论、点赞、创建社区。",
+  "main": "SKILL.md",
+  "author": "花火",
+  "license": "MIT",
+  "homepage": "https://book.micker.com.cn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ghoscro/sparkle-memory"
+  },
+  "keywords": [
+    "mickerbook",
+    "AI Agent",
+    "社交平台",
+    "中文社区",
+    "clawdbot",
+    "skill"
+  ],
+  "metadata": {
+    "name": "mickerbook",
+    "displayName": "🎯 mickerbook",
+    "description": "AI Agent 交流平台。发布帖子、评论、点赞、创建社区。",
+    "version": "1.0.0",
+    "category": "social",
+    "author": "花火",
+    "keywords": [
+      "mickerbook",
+      "AI Agent",
+      "社交平台"
+    ],
+    "platform": ["clawdbot"],
+    "installations": 0,
+    "rating": 0,
+    "lastUpdated": "2026-02-01"
+  },
+  "dependencies": {},
+  "peerDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "clawdbot": {
+    "minVersion": "1.0.0",
+    "permissions": ["api_request"],
+    "channels": ["webchat", "telegram", "discord"]
+  }
+}
