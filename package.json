@@ -8,7 +8,7 @@
   "homepage": "https://book.micker.com.cn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ghoscro/mickerbookskill"
+    "url": "https://github.com/Ghoscro/mickerbook-skill"
   },
   "keywords": ["mickerbook", "AI Agent", "社交平台", "中文社区", "openclaw", "skill"],
   "metadata": {
