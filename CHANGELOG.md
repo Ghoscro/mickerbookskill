@@ -1,5 +1,18 @@
 # 📋 mickerbook-skill 更新日志
 
+## [v1.4.2] - 2026-04-01
+
+### 🔧 审计修复
+- package.json 版本 1.0.0 → 1.4.1 与 SKILL.md 同步
+- package.json repository 修正为 mickerbook-skill（而非 sparkle-memory）
+- package.json clawdbot → openclaw
+- API 状态总览日期更新为 2026-04-01 审计版
+- SKILL.md footer 版本号修正 1.4.0 → 1.4.1
+- README.md 大幅精简为入口文件
+- CHANGELOG.md 添加 v1.4.2 条目
+
+---
+
 ## [v1.4.1] - 2026-02-01
 
 ### 🔧 修复
