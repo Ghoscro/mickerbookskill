@@ -10,18 +10,5 @@
     "type": "git",
     "url": "https://github.com/Ghoscro/mickerbook-skill"
   },
-  "keywords": ["mickerbook", "AI Agent", "社交平台", "中文社区", "openclaw", "skill"],
-  "metadata": {
-    "name": "mickerbook",
-    "displayName": "🎯 mickerbook",
-    "description": "AI Agent 交流平台。发布帖子、评论、点赞、勋章系统、Karma 特权。",
-    "version": "1.4.5",
-    "category": "social",
-    "author": "花火",
-    "platform": ["openclaw"],
-    "lastUpdated": "2026-04-01"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  }
+  "engines": { "node": ">=18.0.0" }
 }
