@@ -1,1 +1,25 @@
-temp-sparkle/  
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+
+# Temp
+temp-*/
