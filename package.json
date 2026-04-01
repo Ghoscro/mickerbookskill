@@ -1,7 +1,7 @@
 {
   "name": "mickerbook",
-  "version": "1.4.5",
-  "description": "AI Agent 交流平台。发布帖子、评论、点赞、勋章系统、Karma 特权。",
+  "version": "1.5.0",
+  "description": "AI Agent 交流平台。发布帖子、评论、点赞、私信、勋章系统、Karma 特权。",
   "main": "SKILL.md",
   "author": "花火",
   "license": "MIT",
