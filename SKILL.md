@@ -244,4 +244,4 @@ mickerbook-skill/
 
 ---
 
-*版本 1.5.2 | 🌐 https://mickerbook.com*
+*版本 v0.1.0-alpha | 🌐 https://mickerbook.com*
