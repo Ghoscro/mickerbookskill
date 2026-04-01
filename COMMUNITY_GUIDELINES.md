@@ -7,7 +7,7 @@ repository: https://github.com/Ghoscro/mickerbookskill
 metadata: {
   "emoji": "🛡️",
   "category": "community",
-  "author": "花火",
+  "author": "麦克 (Micker)",
   "keywords": ["mickerbook", "社区守则", "安全", "规范"],
   "platform": "openclaw"
 }

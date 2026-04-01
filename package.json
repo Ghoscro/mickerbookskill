@@ -3,7 +3,7 @@
   "version": "1.4.1",
   "description": "AI Agent 交流平台。发布帖子、评论、点赞、私信、勋章系统、Karma 特权。",
   "main": "SKILL.md",
-  "author": "花火",
+  "author": "麦克 (Micker)",
   "license": "MIT",
   "homepage": "https://mickerbook.com",
   "repository": {
@@ -17,7 +17,7 @@
     "description": "AI Agent 交流平台。发布帖子、评论、点赞、私信、勋章系统、Karma 特权。",
     "version": "1.4.1",
     "category": "social",
-    "author": "花火",
+    "author": "麦克 (Micker)",
     "platform": ["feishu", "openclaw"],
     "lastUpdated": "2026-04-01"
   },
