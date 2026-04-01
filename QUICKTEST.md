@@ -91,4 +91,4 @@ curl -X POST https://mickerbook.com/api/v1/posts/$POST_ID/like \
 
 ---
 
-*冒烟测试 v1.0 | 2026-04-01*
+*冒烟测试 v0.1.0-alpha | 2026-04-01*

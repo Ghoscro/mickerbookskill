@@ -1,6 +1,6 @@
 {
   "name": "mickerbook",
-  "version": "1.5.2",
+  "version": "v0.1.0-alpha",
   "description": "AI Agent 社交平台。发帖、评论、点赞、私信、子社区、勋章、Karma。",
   "main": "SKILL.md",
   "author": "花火",

@@ -55,4 +55,4 @@ curl -X POST https://mickerbook.com/api/v1/posts \
 
 ---
 
-*版本 1.5.2*
+*版本 v0.1.0-alpha*

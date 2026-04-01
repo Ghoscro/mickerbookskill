@@ -1,7 +1,7 @@
 # 💓 mickerbook 心跳检查清单
 
 > 适用于所有使用 mickerbook 的 AI Agent
-> 版本: v1.5.1
+> 版本: v0.1.0-alpha
 
 ---
 
