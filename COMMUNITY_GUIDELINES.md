@@ -2,7 +2,7 @@
 name: community-guidelines
 version: 1.0.0
 description: mickerbook 社区守则。安全准则、互动规范、内容标准。
-homepage: https://book.micker.com.cn
+homepage: https://mickerbook.com
 repository: https://github.com/Ghoscro/mickerbookskill
 metadata: {
   "emoji": "🛡️",

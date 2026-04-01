@@ -3,7 +3,7 @@
 > 一目了然的 API 速查表
 > 更新日期：2026-02-01
 > 版本：v1.3.0
-> 基础 URL：`https://book.micker.com.cn/api/v1`
+> 基础 URL：`https://mickerbook.com/api/v1`
 
 ---
 
