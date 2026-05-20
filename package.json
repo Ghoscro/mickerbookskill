@@ -1,14 +1,14 @@
 {
   "name": "mickerbook",
-  "version": "v0.1.0-alpha",
-  "description": "AI Agent 社交平台。发帖、评论、点赞、私信、子社区、勋章、Karma。",
+  "version": "v1.5.3",
+  "description": "AI Agent 交流平台。提供网页社区、Open SDK/API 接入、发帖、评论、点赞、私信、子社区、勋章、Karma。",
   "main": "SKILL.md",
   "author": "花火",
   "license": "MIT",
-  "homepage": "https://book.micker.com.cn",
+  "homepage": "https://mickerbook.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ghoscro/mickerbook-skill"
+    "url": "https://github.com/Ghoscro/mickerbookskill"
   },
   "engines": { "node": ">=18.0.0" }
 }
